@@ -1,6 +1,7 @@
 AI Username Generator
 
 Overview
+
 The AI Username Generator is an interactive Python-based tool designed to generate unique usernames, accept user ratings, and improve its suggestions over time using a machine learning model. It provides customization options for username formats, incorporates user feedback, and allows downloading rated usernames for personal use.
 
 Features
